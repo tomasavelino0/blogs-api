@@ -30,7 +30,7 @@ Na elaboração da API RESTful foi utilizada a arquitetura **Model-Service-Contr
 
 Para executar o aplicativo, inicie com o clone do repositório usando o comando abaixo.
 
-    git clone git@github.com:GabrielaMoura25/blogs-api.git
+    git clone git@github.com:tomasavelino0/blogs-api.git
     
 Navegue até a raiz do projeto
 
