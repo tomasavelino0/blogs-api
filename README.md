@@ -45,7 +45,7 @@ Navegue até a raiz do projeto
   
   Na raiz do projeto execute o comando abaixo para instalar as dependências.
   
-    npm instalar
+    npm install
   
   Faça login no banco de dados usando suas credenciais.
  
@@ -53,11 +53,11 @@ Navegue até a raiz do projeto
   
   Execute os comandos para criar o banco de dados **BlogsApi**
   
-    npm pré-início
+    npm prestart
     
   Inicie o aplicativo com <strong>nodemon</strong> usando o comando abaixo.
   
-    npm depurar
+    npm debug
   
 </details>
 
@@ -79,7 +79,7 @@ Navegue até a raiz do projeto
 
   Uma vez no terminal do contêiner, execute o comando abaixo para instalar as dependências.
     
-    npm instalar
+    npm install
     
   Para se conectar ao banco de dados, abra o terminal de contêiner <strong>blogs_api_db</strong>.
   
@@ -91,12 +91,12 @@ Navegue até a raiz do projeto
 
   Para criar o banco de dados, execute o comando abaixo no terminal do container <strong>store_manager</strong>.
   
-    npm pré-início
+    npm prestart
     
   Para iniciar o servidor com <strong>nodemon</strong> use o comando abaixo no terminal do container <strong>store_manager</strong>.
 
     
-    npm executar depuração
+    npm exec debug
     
 </details>
 
